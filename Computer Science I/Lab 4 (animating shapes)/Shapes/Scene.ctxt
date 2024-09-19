@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Scene
+comment0.text=\r\n\ Short,\ one-line\ description\ of\ Scene\ class\ here.\r\n\ \r\n\ Optionally,\ include\ a\ paragraph\ that\ provides\ a\ more\ \r\n\ detailed\ description.\r\n\r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Scene()
+comment1.text=\r\n\ Scene\ Constructor.\r\n\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ Method\ main.\r\n\r\n\ @param\ args\ A\ parameter\r\n
+comment3.params=
+comment3.target=void\ animate()
+comment3.text=\r\n\ Method\ animate.\r\n\r\n
+numComments=4

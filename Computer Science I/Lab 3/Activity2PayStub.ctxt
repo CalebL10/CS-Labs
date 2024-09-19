@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Activity2PayStub
+comment0.text=\r\n\ Activity2PayStub\ class\ is\ part\ of\ Lab\ 3\ and\r\n\ creates\ a\ simple\ pay\ stub.\r\n\r\n\ @author\ (Caleb\ Long)\r\n\ @version\ (9/13/22)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\ for\ calling\ other\ methods.\r\n\ @param\ args\ calls\ other\ methods\r\n
+comment2.params=keyboard
+comment2.target=void\ getInput(java.util.Scanner)
+comment2.text=\r\n\ gets\ unput\ from\ user.\r\n\ @param\ keyboard\ gets\ input\ from\ user.\r\n
+comment3.params=
+comment3.target=void\ calculate()
+comment3.text=\r\n\ calculates\ pay\ of\ user.\r\n
+comment4.params=
+comment4.target=void\ printPayStub()
+comment4.text=\r\n\ prints\ pay\ stub\ for\ user.\r\n
+numComments=5

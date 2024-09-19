@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Style
+comment0.text=\r\n\ Test\ checkstyle\ in\ BlueJ.\r\n\r\n\ @author\ Caleb\ Long\r\n\ @version\ 0.1\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ main\ \u2013\ The\ program\ starts\ here\ in\ main.\r\n\r\n\ @param\ args\ Command\ line\ arguments.\r\n
+numComments=2
