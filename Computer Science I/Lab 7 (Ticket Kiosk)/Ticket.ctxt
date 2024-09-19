@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Ticket
+comment0.text=\r\n\ Short,\ one-line\ description\ of\ Ticket\ class\ here.\r\n\ \r\n\ Optionally,\ include\ a\ paragraph\ that\ provides\ a\ more\ \r\n\ detailed\ description.\r\n\r\n\ @author\ (Caleb\ Long)\ \r\n\ @version\ (.01)\r\n
+comment1.params=
+comment1.target=Ticket()
+comment1.text=\r\n\ No\ parameter\ constructor\ for\ objects\ of\ class\ Ticket.\r\n
+comment2.params=customer\ flight
+comment2.target=Ticket(Customer,\ Flight)
+comment2.text=\r\n\ Constructor.\r\n\ @param\ customer\ getting\ ticket\r\n\ @param\ flight\ for\ ticket\r\n
+comment3.params=
+comment3.target=Customer\ getCustomer()
+comment3.text=\r\n\ Accessor.\r\n\ @return\ customer\ customer\r\n
+comment4.params=
+comment4.target=Flight\ getFlight()
+comment4.text=\r\n\ Accessor.\r\n\ @return\ flight\ flight\r\n
+comment5.params=customer
+comment5.target=void\ setCustomer(Customer)
+comment5.text=\r\n\ Mutator.\r\n\ @param\ customer\ customer\r\n
+comment6.params=flight
+comment6.target=void\ setFlight(Flight)
+comment6.text=\r\n\ Mutator.\r\n\ @param\ flight\ flight\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ toString\ method.\r\n\ @return\ str\ formatted\ output\r\n
+numComments=8

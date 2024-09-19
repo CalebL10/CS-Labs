@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ISPMain
+comment0.text=\r\n\ \r\n\ Creates\ an\ ISP\ object\ using\ the\ methods\ from\ the\ class\ ISP.\r\n\r\n\ @author\ (Caleb\ Long)\ \r\n\ @version\ (.1)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Creates\ a\ new\ ISP\ object\ based\ on\ user\ input.\r\n\ @param\ args\ no\ args.\r\n
+numComments=2
