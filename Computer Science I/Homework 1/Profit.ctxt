@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Profit
+comment0.text=\r\n\ Shows\ the\ profit\ made\ by\ a\ textbook\ publishing\ company.\r\n\r\n\ @author\ Caleb\ Long\r\n\ @version\ 0.1\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Calculates\ and\ displays\ the\ profit\ made\ by\ the\ company.\r\n\ \r\n\ @param\ \ y\ \ \ \ \ A\ sample\ parameter\ for\ this\ method.\r\n
+numComments=2

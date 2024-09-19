@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PersonalInfoTest
+comment0.text=\r\n\ The\ test\ class\ PersonalInfoTest.\r\n\r\n\ @author\ Mark\ Hills\r\n\ @version\ 1.0.0\r\n
+comment1.params=
+comment1.target=void\ testPersonalInfoClassExists()
+comment1.text=\r\n\ Tests\ for\ existance\ of\ the\ PersonalInfo\ class.\r\n
+comment2.params=
+comment2.target=void\ testPersonalInfoMain()
+comment2.text=\r\n\ Tests\ the\ main\ method\ in\ PersonalInfo.\r\n
+numComments=3

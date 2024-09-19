@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FileDisplay
+comment0.text=\r\n\ The\ FileDisplay\ class.\r\n\ \r\n\ @author\ (Caleb\ Long)\r\n\ @version\ (11/28/22)\r\n
+comment1.params=fileName
+comment1.target=FileDisplay(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ FileDisplay.\r\n\ @param\ fileName\ fileName\r\n
+comment2.params=
+comment2.target=void\ displayHead()
+comment3.params=
+comment3.target=void\ displayContents()
+comment4.params=
+comment4.target=void\ displayWithLineNumbers()
+numComments=5

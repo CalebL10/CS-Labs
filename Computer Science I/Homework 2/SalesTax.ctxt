@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SalesTax
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\ This\ program\ takes\ the\ input\ of\ the\ user's\ name\ and\ purchase\ amount,\ then\ calculates\ tax\ based\ on\ a\ 5.5%\ state\ tax\ and\ 2%\r\n\ \ \ \ county\ tax.\r\n
+numComments=2

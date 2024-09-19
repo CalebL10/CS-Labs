@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=BookTest
+comment0.text=\r\n\ The\ test\ class\ \ BookTest.\r\n\r\n\ @author\ Courtney\ Dixon\r\n\ @version\ 20.2.2021\r\n
+comment1.params=
+comment1.target=void\ testBookClassExists()
+comment1.text=\r\n\ Tests\ for\ existance\ of\ the\ PersonalInfo\ class.\r\n
+comment2.params=
+comment2.target=void\ testGetSetAuthor()
+comment2.text=\r\n\ Tests\ getAuthor\ accessor\ method\ \r\n\ and\ setAuthor\ mutator\ method.\r\n
+comment3.params=
+comment3.target=void\ testGetSetTitle()
+comment3.text=\r\n\ Tests\ getTitle\ accessor\ method\r\n\ and\ setTitle\ mutator\ method.\r\n
+comment4.params=
+comment4.target=void\ testGetSetPages()
+comment4.text=\r\n\ Tests\ getPages\ accessor\ method\r\n\ and\ setPages\ mutator\ method.\r\n
+comment5.params=
+comment5.target=void\ testGetSetPublisher()
+comment5.text=\r\n\ Tests\ getPublisher\ accessor\ method\r\n\ and\ setPublisher\ mutator\ method.\r\n
+comment6.params=
+comment6.target=void\ testGetSetPhoneNumber()
+comment6.text=\r\n\ Tests\ getPhoneNumber\ accessor\ method\r\n\ and\ setPhoneNumber\ mutator\ method.\r\n
+numComments=7

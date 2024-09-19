@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BookDriverTest
+comment0.text=\r\n\ The\ test\ class\ BookDriverTest.\r\n\r\n\ @author\ Courtney\ Dixon\r\n\ @version\ 20.2.2021\r\n
+comment1.params=
+comment1.target=void\ testBookDriverClassExists()
+comment1.text=\r\n\ Tests\ for\ existance\ of\ the\ PersonalInfo\ class.\r\n
+comment2.params=
+comment2.target=void\ testBookDriverMain()
+comment2.text=\r\n\ Tests\ the\ main\ method\ in\ BookDriver.\r\n
+numComments=3

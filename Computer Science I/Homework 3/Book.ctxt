@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\r\n\ Book\ class.\r\n\ \r\n\ declares\ variables\ and\ methods\ to\ be\ used\ in\ BookDriver.\r\n\r\n\ @author\ (Caleb\ Long)\r\n\ @version\ (.1)\r\n
+comment1.params=
+comment1.target=Book()
+comment10.params=publisherTemp
+comment10.target=void\ setPublisher(java.lang.String)
+comment11.params=phoneTemp
+comment11.target=void\ setPhoneNumber(java.lang.String)
+comment2.params=
+comment2.target=int\ getPages()
+comment3.params=
+comment3.target=java.lang.String\ getAuthor()
+comment4.params=
+comment4.target=java.lang.String\ getTitle()
+comment5.params=
+comment5.target=java.lang.String\ getPublisher()
+comment6.params=
+comment6.target=java.lang.String\ getPhoneNumber()
+comment7.params=authorTemp
+comment7.target=void\ setAuthor(java.lang.String)
+comment8.params=titleTemp
+comment8.target=void\ setTitle(java.lang.String)
+comment9.params=pagesTemp
+comment9.target=void\ setPages(int)
+numComments=12
